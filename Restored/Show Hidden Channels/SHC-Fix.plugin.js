@@ -6,7 +6,7 @@
  * @description Displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible)
  * @invite Jx3TjNS
  * @website https://mwittrien.github.io/
- * @source https://github.com/mishan-ya/BD-Plugens/blob/main/Restored/Show%20Hidden%20Channels/SHC-Fix.js
+ * @source https://github.com/mishan-ya/BD-Plugens/blob/main/Restored/Show%20Hidden%20Channels/SHC-Fix.plugin.js
  */
 
 module.exports = (_ => {

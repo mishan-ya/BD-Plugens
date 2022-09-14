@@ -1,11 +1,9 @@
 /**
- * @name BDFDB (Fixed 😀)
- * @author DevilBro (not now)
+ * @name BDFDB fix
+ * @author DevilBro
  * @authorId 278543574059057154
- * @version 5.0.0
+ * @version 2.4.9
  * @description Required Library for DevilBro's Plugins
- * @invite Jx3TjNS
- * @website https://mwittrien.github.io/
  * @source https://github.com/mishan-ya/BD-Plugens/blob/main/Restored/Show%20Hidden%20Channels/0BDFDB-Fix.plugin.js
  */
 
@@ -14,12 +12,12 @@ module.exports = (_ => {
 	
 	const config = {
 		"info": {
-			"name": "BDFDB (Fixed for SHC plugin)",
+			"name": "BDFDB fix",
 			"author": "DevilBro",
 			"version": "2.4.9",
 			"description": "Required Library for DevilBro's Plugins"
 		},
-		"rawUrl": "@source https://github.com/mishan-ya/BD-Plugens/blob/main/Restored/Show%20Hidden%20Channels/0BDFDB-Fix.plugin.js"
+		"rawUrl": "https://raw.githubusercontent.com/mishan-ya/BD-Plugens/main/Restored/Show%20Hidden%20Channels/0BDFDB-Fix.plugin.js"
 	};
 	
 	const Cache = {data: {}, modules: {}};

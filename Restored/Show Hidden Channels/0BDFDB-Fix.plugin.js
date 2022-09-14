@@ -6,7 +6,7 @@
  * @description Required Library for DevilBro's Plugins
  * @invite Jx3TjNS
  * @website https://mwittrien.github.io/
- * @source https://github.com/mishan-ya/BD-Plugens/blob/main/Restored/Show%20Hidden%20Channels/BDFDB-Fix.plugin.js
+ * @source https://github.com/mishan-ya/BD-Plugens/blob/main/Restored/Show%20Hidden%20Channels/0BDFDB-Fix.plugin.js
  */
 
 module.exports = (_ => {
@@ -19,7 +19,7 @@ module.exports = (_ => {
 			"version": "2.4.9",
 			"description": "Required Library for DevilBro's Plugins"
 		},
-		"rawUrl": "https://mwittrien.github.io/BetterDiscordAddons/Library/0BDFDB.plugin.js"
+		"rawUrl": "@source https://github.com/mishan-ya/BD-Plugens/blob/main/Restored/Show%20Hidden%20Channels/0BDFDB-Fix.plugin.js"
 	};
 	
 	const Cache = {data: {}, modules: {}};
